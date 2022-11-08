@@ -9,8 +9,8 @@ import (
 	"unsafe"
 
 	"github.com/bitly/go-simplejson"
-	"github.com/felixonmars/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
+	"github.com/wuchongde/BaiduPCS-Go/requester"
+	"github.com/wuchongde/baidu-tools/tieba/tiebautil"
 )
 
 // GetBars 获取贴吧列表

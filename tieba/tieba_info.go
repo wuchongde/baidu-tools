@@ -5,9 +5,9 @@ import (
 	"strconv"
 
 	"github.com/bitly/go-simplejson"
-	"github.com/felixonmars/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
+	"github.com/wuchongde/BaiduPCS-Go/requester"
+	"github.com/wuchongde/baidu-tools"
+	"github.com/wuchongde/baidu-tools/tieba/tiebautil"
 )
 
 // NewUserInfoByUID 提供 UID 获取百度帐号详细信息

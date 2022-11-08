@@ -10,7 +10,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/felixonmars/BaiduPCS-Go/requester"
+	"github.com/wuchongde/BaiduPCS-Go/requester"
 )
 
 // SharedInfo 百度网盘文件分享页信息

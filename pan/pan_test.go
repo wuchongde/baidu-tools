@@ -2,7 +2,7 @@ package pan
 
 import (
 	"fmt"
-	"github.com/felixonmars/BaiduPCS-Go/requester"
+	"github.com/wuchongde/BaiduPCS-Go/requester"
 	"testing"
 )
 

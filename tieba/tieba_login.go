@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/bitly/go-simplejson"
-	"github.com/felixonmars/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
+	"github.com/wuchongde/BaiduPCS-Go/requester"
+	"github.com/wuchongde/baidu-tools"
+	"github.com/wuchongde/baidu-tools/tieba/tiebautil"
 )
 
 // NewUserInfoByBDUSS 检测BDUSS有效性, 同时获取百度详细信息
