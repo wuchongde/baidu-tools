@@ -2,11 +2,12 @@ package tieba
 
 import (
 	"fmt"
+	"strconv"
+
 	"github.com/bitly/go-simplejson"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/felixonmars/BaiduPCS-Go/requester"
 	"github.com/iikira/baidu-tools"
 	"github.com/iikira/baidu-tools/tieba/tiebautil"
-	"strconv"
 )
 
 // NewUserInfoByUID 提供 UID 获取百度帐号详细信息

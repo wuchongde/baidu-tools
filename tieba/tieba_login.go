@@ -2,12 +2,13 @@ package tieba
 
 import (
 	"fmt"
-	"github.com/bitly/go-simplejson"
-	"github.com/iikira/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
 	"strconv"
 	"time"
+
+	"github.com/bitly/go-simplejson"
+	"github.com/felixonmars/BaiduPCS-Go/requester"
+	"github.com/iikira/baidu-tools"
+	"github.com/iikira/baidu-tools/tieba/tiebautil"
 )
 
 // NewUserInfoByBDUSS 检测BDUSS有效性, 同时获取百度详细信息

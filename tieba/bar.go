@@ -2,14 +2,15 @@ package tieba
 
 import (
 	"fmt"
-	"github.com/bitly/go-simplejson"
-	"github.com/iikira/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
 	"log"
 	"regexp"
 	"strconv"
 	"strings"
 	"unsafe"
+
+	"github.com/bitly/go-simplejson"
+	"github.com/felixonmars/BaiduPCS-Go/requester"
+	"github.com/iikira/baidu-tools/tieba/tiebautil"
 )
 
 // GetBars 获取贴吧列表
