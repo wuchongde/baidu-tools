@@ -10,6 +10,8 @@ import (
 	"path"
 	"strings"
 
+	jsoniter "github.com/json-iterator/go"
+
 	"github.com/wuchongde/BaiduPCS-Go/requester"
 )
 
